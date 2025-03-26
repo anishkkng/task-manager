@@ -88,7 +88,7 @@ Example **POST Request (JSON Body)**:
 
 ## 📸 Screenshots  
 🌟 **Frontend UI Preview**  
-![Task Manager UI](https://via.placeholder.com/600x300.png?text=Task+Manager+App)  
+present in the project folder
 
 ---
 
@@ -111,6 +111,5 @@ This project is **MIT Licensed** – feel free to modify & improve! 🚀
 ---
 
 ## 👨‍💻 Author  
-👤 **Your Name**  
-📧 [Your Email]  
-🔗 [Your GitHub Profile](https://github.com/your-username)  
+👤 **ANISHKUMARBEHERA**  
+📧 anish.behera2020@gmail.com
